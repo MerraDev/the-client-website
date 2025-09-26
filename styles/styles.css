@@ -1,1 +1,16 @@
 /* CSS */
+
+
+body {
+    display: flex;
+    
+}
+
+
+article.foto-overzicht {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
